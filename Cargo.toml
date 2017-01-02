@@ -1,0 +1,7 @@
+[package]
+name = "hang-build-command"
+version = "0.1.0"
+authors = ["Dave Herman <dherman@mozilla.com>"]
+build = "build.rs"
+
+[dependencies]
